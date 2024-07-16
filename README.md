@@ -47,4 +47,4 @@ dotnet add package Selenium.WebDriver.ChromeDriver
 ## Пример
 
 **Топ-10 лидеров продаж за 16.07.2024 12:22:**  
-![Пример1](https://github.com/1i10/SteamTopSellers/blob/main/example.png)  
+![Пример1](https://github.com/1i10/SteamTopSellers/blob/master/example.png)  
